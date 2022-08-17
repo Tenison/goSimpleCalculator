@@ -18,7 +18,7 @@ func main(){
 	fmt.Printf("Please enter calculation operator(+,-,/,*,%%): ")
 	fmt.Scanf("%s\n", &operator)
 
-	fmt.Printf("Please input first number: ")
+	fmt.Printf("Please input second number: ")
 	fmt.Scanf("%d\n", &numberTwo)
 
 	switch string(operator){
