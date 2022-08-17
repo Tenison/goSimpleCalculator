@@ -1,7 +1,7 @@
 # goSimpleCalculator
 #### Golang Simple Calculator using only integers
 #### Include a simple go calcultor package
-#### Performs addition, substraction, division, mutliplication, and reminder/mod
+#### Performs addition, subtraction, division, mutliplication, and reminder/mod
 #### Example: $ go run main.go
 ```go
 Please input first number: 12
